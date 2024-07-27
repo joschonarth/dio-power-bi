@@ -4,7 +4,7 @@ Repositório para armazenar conteúdos sobre Power BI do Bootcamp Data Analytics
 
 <!-- <img src="assets/powerbi-icon.png" alt="Ícone do Power BI" width="20" style="vertical-align: middle;"> -->
 
-## Conteúdos 📁
+## Conteúdos 🗂️
 
 | Módulos                | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
