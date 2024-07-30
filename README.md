@@ -15,6 +15,10 @@ Repositório para armazenar conteúdos sobre Power BI do Bootcamp Data Analytics
 | [Módulo 5](https://github.com/joschonarth/dio-power-bi/tree/main/modulo-5)       | Data Analytics & Storytelling com Power BI |
 | [Módulo 6](https://github.com/joschonarth/dio-power-bi/tree/main/modulo-6)       | Gerenciamento de Workspace e Datasets com Power BI |
 
+### 📝 Documentação
+
+- [Documentação Power BI](https://learn.microsoft.com/pt-br/power-bi/).
+
 ### 🔍 Referências
 - [Digital Innovation One](https://web.dio.me/).
 
